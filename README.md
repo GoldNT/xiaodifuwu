@@ -1,5 +1,7 @@
 # **注意**
 
+中文版  /    [English click here](README_en.md)
+
 **本项目是基于源码进行的改编**
 
 index.html----------主页面，登录页面
