@@ -1,8 +1,8 @@
-# ** Attention **
+# **Attention**
 
 [Chinese version](README.md) / English click here
 
-** This project is an adaptation of the source code **
+**This project is an adaptation of the source code**
 
 index.html---------- Home page, login page
 
